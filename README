@@ -1,1 +1,7 @@
-A very basic (and incomplete) wrapper for libcanberra
+A very basic (and incomplete) wrapper for libcanberra.
+
+Original Author:
+Dave Barry <dave@psax.org>
+
+Current Maintainer:
+ng0 <ng0@infotropique.org>
