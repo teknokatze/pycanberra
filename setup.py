@@ -5,9 +5,9 @@ from distutils.core import setup
 setup(
     name='pycanberra',
     version='0.1',
-    description='A ctypes wrapper for the libcanberra api',
+    description='Ctypes wrapper for the libcanberra API',
     author='Dave Barry',
-    url='https://github.com/totdb/pycanberra',
+    url='https://ng0.git.infotropique.org/pycanberra/',
     license='LGPL-2.1',
     py_modules=['pycanberra']
 )
